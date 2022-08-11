@@ -113,12 +113,11 @@ the pitch.
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 
-{% comment %}
+{% comment %}{% endcomment %}
 AUDIENCE
+This workshop is only open to people from  ... .
 
-Explain who your audience is.  (In particular, tell readers if the
-workshop is only open to people from a particular institution.
-{% endcomment %}
+{% comment %}{% endcomment %}
 {% if site.carpentry == "swc" %}
 {% include swc/who.html %}
 {% elsif site.carpentry == "dc" %}
