@@ -102,7 +102,12 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2>Organisers</h2>
+<p> Allegra Via, National Research Council and ELIXIR - <a href="https://elixir-iib-training.github.io/website/instructors/allegra_via.html">Homepage</a> </p>
+<p> Loredana Le Pera, Italian National Institute of Heath (ISS) and ELIXIR - <a href="https://elixir-iib-training.github.io/website/instructors/loredana_le_pera.html">Homepage</a> </p>
+<p> Vincenza Colonna, National Research Council and ELIXIR - <a href="http://www.igb.cnr.it/popgenlab/research">Homepage</a> </p> 
 
+  
 <h2 id="general">General Information</h2>
 
 {% comment %}
