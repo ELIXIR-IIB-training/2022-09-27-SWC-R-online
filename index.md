@@ -88,9 +88,9 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2>Organisers</h2>
-<p> Allegra Via, National Research Council and ELIXIR - <a href="https://elixir-iib-training.github.io/website/instructors/allegra_via.html">Homepage</a> </p>
+<p> Allegra Via, National Research Council (CNR) and ELIXIR - <a href="https://elixir-iib-training.github.io/website/instructors/allegra_via.html">Homepage</a> </p>
 <p> Loredana Le Pera, Italian National Institute of Heath (ISS) and ELIXIR - <a href="https://elixir-iib-training.github.io/website/instructors/loredana_le_pera.html">Homepage</a> </p>
-<p> Vincenza Colonna, National Research Council and ELIXIR - <a href="http://www.igb.cnr.it/popgenlab/research">Homepage</a> </p> 
+<p> Vincenza Colonna, National Research Council (CNR) and ELIXIR - <a href="http://www.igb.cnr.it/popgenlab/research">Homepage</a> </p> 
 
   
 <h2 id="general">General Information</h2>
@@ -114,7 +114,6 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 {% endif %}
 
 {% comment %}{% endcomment %}
-AUDIENCE
 This workshop is only open to people from RENOIR, a European Training Network that aims to develop and implement a PhD programme in the field of muscle regeneration and aging.
 
 {% comment %}{% endcomment %}
