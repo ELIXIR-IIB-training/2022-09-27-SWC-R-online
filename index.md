@@ -115,7 +115,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 {% comment %}{% endcomment %}
 AUDIENCE
-This workshop is only open to people from  ... .
+This workshop is only open to people from RENOIR, a European Training Network that aims to develop and implement a PhD programme in the field of muscle regeneration and aging.
 
 {% comment %}{% endcomment %}
 {% if site.carpentry == "swc" %}
@@ -221,8 +221,8 @@ special instructions.
 </p>
 {% else %}
   We are dedicated to providing a positive and accessible learning environment for all. Please
-  notify the instructors in advance of the workshop if you require any accommodations or if there is
-  anything we can do to make this workshop more accessible to you.
+  notify the instructors in advance of the workshop if there is anything we can do to make this 
+  workshop more accessible to you.
 </p>
 {% endif %}
 
